@@ -7,3 +7,4 @@ MERGE CONFLICT ONE
 test
 test
 test
+MERGE CONFLICT TWO
